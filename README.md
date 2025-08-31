@@ -75,6 +75,7 @@
 
 ## 🐍 Contribuições
 
-![snake gif](https://raw.githubusercontent.com/RuanTrindade/RuanTrindade/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://raw.githubusercontent.com/RuanTrindade/RuanTrindade/output/github-contribution-grid-snake.gif)
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=RuanTrindade&repo=RuanTrindade&theme=react)](https://github.com/RuanTrindade/RuanTrindade)
 
