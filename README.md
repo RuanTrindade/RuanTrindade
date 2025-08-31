@@ -70,10 +70,14 @@
 
 ---
 
-### 🐍 Contribuições  
+### 🐍 Contribuições
+
+# 🐍 Minha cobrinha no GitHub
+
+Aqui estão meus commits em ação:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuanTrindade/RuanTrindade/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RuanTrindade/RuanTrindade/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/RuanTrindade/RuanTrindade/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/RuanTrindade/RuanTrindade/output/github-contribution-grid-snake.svg"/>
 </picture>
