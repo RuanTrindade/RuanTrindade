@@ -72,8 +72,9 @@
 
 # 🐍 Minha cobrinha no GitHub
 
-Visualização animada das minhas contribuições no GitHub, atualizada automaticamente pelo workflow.
 
 ## 🐍 Contribuições
 
 ![snake gif](https://raw.githubusercontent.com/RuanTrindade/RuanTrindade/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=RuanTrindade&repo=RuanTrindade&theme=react)](https://github.com/RuanTrindade/RuanTrindade)
+
