@@ -72,8 +72,8 @@
 
 # 🐍 Minha cobrinha no GitHub
 
+![snake gif](https://github.com/RuanTrindade/RuanTrindade/blob/output/github-contribution-grid-snake.svg)
 
-## 🐍 Contribuições
 
 
 <picture align="center">
