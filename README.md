@@ -70,14 +70,10 @@
 
 ---
 
-### 🐍 Contribuições
-
 # 🐍 Minha cobrinha no GitHub
 
-Aqui estão meus commits em ação:
+Visualização animada das minhas contribuições no GitHub, atualizada automaticamente pelo workflow.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuanTrindade/RuanTrindade/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RuanTrindade/RuanTrindade/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/RuanTrindade/RuanTrindade/output/github-contribution-grid-snake.svg"/>
-</picture>
+## 🐍 Contribuições
+
+![snake gif](https://raw.githubusercontent.com/RuanTrindade/RuanTrindade/output/github-contribution-grid-snake.svg)
