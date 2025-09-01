@@ -9,13 +9,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake (SVG + GIF)
+      - name: Generate Snake (SVG + GIF Dark)
         uses: Platane/snk@v3
         with:
           github_user_name: RuanTrindade
           outputs: |
-            dist/snake.svg
-            dist/snake.gif
+            dist/snake-dark.svg
+            dist/snake-dark.gif
           palette: github-dark
 
       - name: Push to output branch
