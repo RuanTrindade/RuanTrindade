@@ -73,12 +73,6 @@
 # 🐍 Minha cobrinha no GitHub
 
 
-![Snake dark SVG](https://github.com/RuanTrindade/SEU_REPOSITORIO/blob/output/snake-dark.svg)
-
-![Snake dark GIF](https://github.com/RuanTrindade/SEU_REPOSITORIO/blob/output/snake-dark.gif)
-
-
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuanTrindade/RuanTrindade/output/snake-dark.svg">
