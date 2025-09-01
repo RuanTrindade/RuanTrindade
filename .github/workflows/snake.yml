@@ -16,7 +16,7 @@ jobs:
           outputs: |
             dist/snake-dark.svg
             dist/snake-dark.gif
-          palette: github-dark
+          palette: "#0d1117:#39d353:#26a641:#006d32" # dark mode
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
