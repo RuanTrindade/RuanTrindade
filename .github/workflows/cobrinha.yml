@@ -1,4 +1,4 @@
-name: Gerar cobrinha
+name: Gerar imagens do perfil
 
 on:
   # roda todo dia à meia-noite (UTC)
@@ -22,6 +22,9 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
       - name: Gerar SVGs da cobrinha (claro e escuro)
         uses: Platane/snk/svg-only@v3
         with:
@@ -29,6 +32,24 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#8000FF&color_dots=#ebedf0,#d8b4fe,#c084fc,#a855f7,#7e22ce
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#A855F7&color_dots=#161b22,#3b0764,#6b21a8,#9333ea,#c084fc
+
+      - name: Gerar estatísticas e gráfico de atividade
+        run: python3 .github/scripts/gerar_cards.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+          OUT_DIR: dist
+
+      - name: Testar contadores de visitas (temporário)
+        continue-on-error: true
+        run: |
+          for u in \
+            "https://komarev.com/ghpvc/?username=RuanTrindade" \
+            "https://visitor-badge.laobi.icu/badge?page_id=RuanTrindade.RuanTrindade" \
+            "https://api.visitorbadge.io/api/visitors?path=RuanTrindade%2FRuanTrindade" \
+            "https://profile-counter.glitch.me/RuanTrindade/count.svg" ; do
+            code=$(curl -s -o /tmp/r -w '%{http_code}' -m 15 "$u"); echo "$code $(head -c 80 /tmp/r | tr -d '\n') $u"
+          done
 
       - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v4

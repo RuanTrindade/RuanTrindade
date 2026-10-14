@@ -36,16 +36,12 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RuanTrindade&show_icons=true&theme=radical&bg_color=000000&title_color=A855F7&icon_color=8A2BE2&text_color=FFFFFF&border_color=8000FF&include_all_commits=true&locale=pt-br&hide_rank=false"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanTrindade&layout=compact&langs_count=8&theme=radical&bg_color=000000&title_color=A855F7&text_color=FFFFFF&border_color=8000FF&locale=pt-br&custom_title=Linguagens+mais+usadas"/>
+  <img height="170" src="https://raw.githubusercontent.com/RuanTrindade/RuanTrindade/output/stats.svg" alt="Estatísticas do GitHub"/>
+  <img height="170" src="https://raw.githubusercontent.com/RuanTrindade/RuanTrindade/output/linguagens.svg" alt="Linguagens mais usadas"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RuanTrindade&locale=pt_BR&background=000000&border=8000FF&ring=A855F7&fire=FF5CF4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A855F7&sideLabels=A855F7&dates=BBBBBB" alt="Sequência de contribuições"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RuanTrindade&bg_color=000000&color=A855F7&line=8000FF&point=FFFFFF&area=true&area_color=4B0082&hide_border=false&border_color=8000FF&custom_title=Contribui%C3%A7%C3%B5es+nos+%C3%BAltimos+dias" alt="Gráfico de atividade"/>
+  <img width="100%" src="https://raw.githubusercontent.com/RuanTrindade/RuanTrindade/output/atividade.svg" alt="Gráfico de atividade dos últimos 31 dias"/>
 </p>
 
 ---
