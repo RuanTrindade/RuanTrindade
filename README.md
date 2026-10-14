@@ -1,81 +1,77 @@
+<!-- Banner animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4B0082,100:8000FF&height=200&section=header&text=Ruan%20Trindade&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20em%20formação%20%E2%80%A2%20ADS%20-%20FEMA&descAlignY=58&descSize=18"/>
 
+<!-- Texto digitando -->
+<p align="center">
+  <a href="https://github.com/RuanTrindade">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=520&lines=%F0%9F%91%8B+Fala+a%C3%AD%2C+bem-vindo+ao+meu+GitHub!;%E2%98%95+Estudando+Java+e+Spring+Boot;%F0%9F%92%BB+Criando+projetos+web;%F0%9F%9A%80+Sempre+aprendendo+algo+novo" alt="Texto animado"/>
+  </a>
+</p>
 
-# 👋 Fala aí, bem-vindo ao meu GitHub!  
-
-# 🚀 Ruan Trindade  
-
-🎂 Nascido em **21/09/2005**  
-📖 Estudante de **Análise e Desenvolvimento de Sistemas** na **FEMA**  
-
----
-
-💻 Desenvolvendo **mini projetos web**  
-☕ Estudando **Java** e **Spring Boot**  
-📚 Atualmente em **ADS - FEMA (2/3)**  
-
-
----
-
-
-### 🌐 Onde me encontrar  
-
-<div align="left">
-
-<a href="mailto:seuemail@gmail.com" target="_blank">
-  <img alt="Gmail" title="Me chama no e-mail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
-  <img alt="LinkedIn" title="Conecte-se comigo" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/ruanzhiito/" target="_blank">
-  <img alt="Instagram" title="Me segue lá no Insta" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.twitch.tv/seu-usuario" target="_blank">
-  <img alt="Twitch" title="Live na Twitch" src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
-</a>
-<a href="https://www.tiktok.com/@seu-usuario" target="_blank">
-  <img alt="TikTok" title="TikTok" src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-<a href="https://discord.gg/seuServidor" target="_blank">
-  <img alt="Discord" title="Bora trocar ideia no Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-<a href="https://www.youtube.com/@seu-usuario" target="_blank">
-  <img alt="YouTube" title="Canal no YouTube" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-### 🤖 Linguagens e Tecnologias  
-
-<p align="left" style="background-color:#000000; padding:10px; border-radius:10px; border: 1px solid #8000FF;">
-  <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img alt="Spring" title="Spring Boot" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RuanTrindade&label=Visitas+no+perfil&color=8000FF&style=for-the-badge" alt="Visitas no perfil"/>
 </p>
 
 ---
 
-### 📊 Estatísticas  
+## 🧑‍💻 Sobre mim
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuanTrindade&show_icons=true&theme=radical&bg_color=000000&title_color=8000FF&icon_color=8A2BE2&text_color=FFFFFF&include_all_commits=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanTrindade&layout=compact&langs_count=9&theme=radical&bg_color=000000&title_color=8000FF&icon_color=8A2BE2&text_color=FFFFFF&custom_title=Tecnologias"/>
+- 📖 Estudante de **Análise e Desenvolvimento de Sistemas** na **FEMA** (2/3)
+- ☕ Estudando **Java** e **Spring Boot** no back-end
+- 🎨 Desenvolvendo projetos web com **React** e **Angular**
+- 🎂 Nascido em **21/09/2005**
+
+---
+
+## 🛠️ Linguagens e Tecnologias
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,html,css,js,ts,react,angular,git,github,vscode,idea&theme=dark&perline=13" alt="Tecnologias"/>
+  </a>
 </p>
 
 ---
 
-# 🐍 Minha cobrinha no GitHub
+## 📊 Estatísticas
 
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RuanTrindade&show_icons=true&theme=radical&bg_color=000000&title_color=A855F7&icon_color=8A2BE2&text_color=FFFFFF&border_color=8000FF&include_all_commits=true&locale=pt-br&hide_rank=false"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanTrindade&layout=compact&langs_count=8&theme=radical&bg_color=000000&title_color=A855F7&text_color=FFFFFF&border_color=8000FF&locale=pt-br&custom_title=Linguagens+mais+usadas"/>
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RuanTrindade&locale=pt_BR&background=000000&border=8000FF&ring=A855F7&fire=FF5CF4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A855F7&sideLabels=A855F7&dates=BBBBBB" alt="Sequência de contribuições"/>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuanTrindade/RuanTrindade/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RuanTrindade/RuanTrindade/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RuanTrindade/RuanTrindade/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RuanTrindade&bg_color=000000&color=A855F7&line=8000FF&point=FFFFFF&area=true&area_color=4B0082&hide_border=false&border_color=8000FF&custom_title=Contribui%C3%A7%C3%B5es+nos+%C3%BAltimos+dias" alt="Gráfico de atividade"/>
+</p>
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="center">
+  <a href="https://www.instagram.com/ruanzhiito/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/RuanTrindade" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-8000FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Minha cobrinha
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuanTrindade/RuanTrindade/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RuanTrindade/RuanTrindade/output/github-contribution-grid-snake.svg">
+    <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/RuanTrindade/RuanTrindade/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<!-- Rodapé animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8000FF,50:4B0082,100:000000&height=120&section=footer"/>
