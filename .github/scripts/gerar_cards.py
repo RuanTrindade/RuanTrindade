@@ -140,7 +140,7 @@ def card_estatisticas(user, dias):
         f'<line x1="330" y1="58" x2="330" y2="226" stroke="{BORDA}" stroke-opacity=".4"/>'
         f'<g class="surgir" style="animation-delay:.8s">'
         f'<text x="420" y="104" class="grande" text-anchor="middle">{atual}</text>'
-        f'<text x="420" y="126" class="rotulo" text-anchor="middle">dias seguidos</text>'
+        f'<text x="420" y="126" class="rotulo" text-anchor="middle">{"dia seguido" if atual == 1 else "dias seguidos"}</text>'
         f'<text x="420" y="176" class="grande" text-anchor="middle">{maior}</text>'
         f'<text x="420" y="198" class="rotulo" text-anchor="middle">maior sequência</text></g>'
     )

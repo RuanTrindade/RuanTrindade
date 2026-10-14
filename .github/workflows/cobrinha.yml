@@ -48,7 +48,7 @@ jobs:
             "https://visitor-badge.laobi.icu/badge?page_id=RuanTrindade.RuanTrindade" \
             "https://api.visitorbadge.io/api/visitors?path=RuanTrindade%2FRuanTrindade" \
             "https://profile-counter.glitch.me/RuanTrindade/count.svg" ; do
-            code=$(curl -s -o /tmp/r -w '%{http_code}' -m 15 "$u"); echo "$code $(head -c 80 /tmp/r | tr -d '\n') $u"
+            code=$(curl -s -o /tmp/r -w '%{http_code}' -m 15 "$u"); echo "$code $(head -c 120 /tmp/r | tr -d '\n') $u" >> dist/teste-visitas.txt
           done
 
       - name: Publicar na branch output
