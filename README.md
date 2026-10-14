@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RuanTrindade&label=Visitas+no+perfil&color=8000FF&style=for-the-badge" alt="Visitas no perfil"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RuanTrindade.RuanTrindade&left_text=Visitas%20no%20perfil&left_color=%23000000&right_color=%238000FF" alt="Visitas no perfil"/>
 </p>
 
 ---
