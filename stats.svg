@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="510" height="245" viewBox="0 0 510 245" role="img" aria-label="Estatísticas do Ruan">
+<style>
+  text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+  .titulo { font-size: 18px; font-weight: 700; fill: #A855F7; }
+  .rotulo { font-size: 13px; fill: #9CA3AF; }
+  .valor { font-size: 15px; font-weight: 700; fill: #E5E5E5; }
+  .grande { font-size: 28px; font-weight: 800; fill: #E5E5E5; }
+  .eixo { font-size: 11px; fill: #9CA3AF; }
+  .surgir { opacity: 0; animation: surgir .6s ease-out forwards; }
+  @keyframes surgir { to { opacity: 1; } }
+  .linha { stroke-dasharray: 4000; stroke-dashoffset: 4000; animation: desenhar 2s ease-out forwards; }
+  @keyframes desenhar { to { stroke-dashoffset: 0; } }
+  .barra { transform-box: fill-box; transform-origin: left; transform: scaleX(0); animation: crescer 1s ease-out forwards; }
+  @keyframes crescer { to { transform: scaleX(1); } }
+</style>
+<rect x="0.5" y="0.5" width="509" height="244" rx="12" fill="#0d0d12" stroke="#8000FF"/>
+<text x="24" y="36" class="titulo">Estatísticas do Ruan</text>
+<g class="surgir" style="animation-delay:0.00s"><text x="24" y="74" class="rotulo">🔥  Contribuições no último ano</text><text x="300" y="74" class="valor" text-anchor="end">84</text></g>
+<g class="surgir" style="animation-delay:0.12s"><text x="24" y="102" class="rotulo">📝  Commits no último ano</text><text x="300" y="102" class="valor" text-anchor="end">80</text></g>
+<g class="surgir" style="animation-delay:0.24s"><text x="24" y="130" class="rotulo">🔀  Pull requests</text><text x="300" y="130" class="valor" text-anchor="end">0</text></g>
+<g class="surgir" style="animation-delay:0.36s"><text x="24" y="158" class="rotulo">📦  Repositórios públicos</text><text x="300" y="158" class="valor" text-anchor="end">19</text></g>
+<g class="surgir" style="animation-delay:0.48s"><text x="24" y="186" class="rotulo">⭐  Estrelas recebidas</text><text x="300" y="186" class="valor" text-anchor="end">11</text></g>
+<g class="surgir" style="animation-delay:0.60s"><text x="24" y="214" class="rotulo">👥  Seguidores</text><text x="300" y="214" class="valor" text-anchor="end">1</text></g>
+<line x1="330" y1="58" x2="330" y2="226" stroke="#8000FF" stroke-opacity=".4"/><g class="surgir" style="animation-delay:.8s"><text x="420" y="104" class="grande" text-anchor="middle">0</text><text x="420" y="126" class="rotulo" text-anchor="middle">dias seguidos</text><text x="420" y="176" class="grande" text-anchor="middle">3</text><text x="420" y="198" class="rotulo" text-anchor="middle">maior sequência</text></g>
+</svg>
