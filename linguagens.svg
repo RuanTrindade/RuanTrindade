@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="245" viewBox="0 0 440 245" role="img" aria-label="Linguagens mais usadas">
+<style>
+  text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+  .titulo { font-size: 18px; font-weight: 700; fill: #A855F7; }
+  .rotulo { font-size: 13px; fill: #9CA3AF; }
+  .valor { font-size: 15px; font-weight: 700; fill: #E5E5E5; }
+  .grande { font-size: 28px; font-weight: 800; fill: #E5E5E5; }
+  .eixo { font-size: 11px; fill: #9CA3AF; }
+  .surgir { opacity: 0; animation: surgir .6s ease-out forwards; }
+  @keyframes surgir { to { opacity: 1; } }
+  .linha { stroke-dasharray: 4000; stroke-dashoffset: 4000; animation: desenhar 2s ease-out forwards; }
+  @keyframes desenhar { to { stroke-dashoffset: 0; } }
+  .barra { transform-box: fill-box; transform-origin: left; transform: scaleX(0); animation: crescer 1s ease-out forwards; }
+  @keyframes crescer { to { transform: scaleX(1); } }
+</style>
+<rect x="0.5" y="0.5" width="439" height="244" rx="12" fill="#0d0d12" stroke="#8000FF"/>
+<text x="24" y="36" class="titulo">Linguagens mais usadas</text>
+<g class="surgir" style="animation-delay:0.00s"><text x="24" y="77" class="rotulo">TypeScript</text><rect x="120" y="66" width="230" height="12" rx="6" fill="#ffffff" fill-opacity=".08"/><rect class="barra" style="animation-delay:0.00s" x="120" y="66" width="68.0" height="12" rx="6" fill="#3178c6"/><text x="414" y="77" class="valor" text-anchor="end">29.6%</text></g>
+<g class="surgir" style="animation-delay:0.12s"><text x="24" y="106" class="rotulo">Java</text><rect x="120" y="95" width="230" height="12" rx="6" fill="#ffffff" fill-opacity=".08"/><rect class="barra" style="animation-delay:0.12s" x="120" y="95" width="59.3" height="12" rx="6" fill="#b07219"/><text x="414" y="106" class="valor" text-anchor="end">25.8%</text></g>
+<g class="surgir" style="animation-delay:0.24s"><text x="24" y="135" class="rotulo">CSS</text><rect x="120" y="124" width="230" height="12" rx="6" fill="#ffffff" fill-opacity=".08"/><rect class="barra" style="animation-delay:0.24s" x="120" y="124" width="57.2" height="12" rx="6" fill="#663399"/><text x="414" y="135" class="valor" text-anchor="end">24.9%</text></g>
+<g class="surgir" style="animation-delay:0.36s"><text x="24" y="164" class="rotulo">HTML</text><rect x="120" y="153" width="230" height="12" rx="6" fill="#ffffff" fill-opacity=".08"/><rect class="barra" style="animation-delay:0.36s" x="120" y="153" width="41.3" height="12" rx="6" fill="#e34c26"/><text x="414" y="164" class="valor" text-anchor="end">17.9%</text></g>
+<g class="surgir" style="animation-delay:0.48s"><text x="24" y="193" class="rotulo">JavaScript</text><rect x="120" y="182" width="230" height="12" rx="6" fill="#ffffff" fill-opacity=".08"/><rect class="barra" style="animation-delay:0.48s" x="120" y="182" width="3.0" height="12" rx="6" fill="#f1e05a"/><text x="414" y="193" class="valor" text-anchor="end">1.2%</text></g>
+<g class="surgir" style="animation-delay:0.60s"><text x="24" y="222" class="rotulo">Vue</text><rect x="120" y="211" width="230" height="12" rx="6" fill="#ffffff" fill-opacity=".08"/><rect class="barra" style="animation-delay:0.60s" x="120" y="211" width="3.0" height="12" rx="6" fill="#41b883"/><text x="414" y="222" class="valor" text-anchor="end">0.4%</text></g>
+</svg>
